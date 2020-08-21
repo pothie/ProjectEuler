@@ -1,5 +1,5 @@
 
-# Input t: the upper bound of multiples of 3 and 5
+# Input n: the upper bound of multiples of 3 and 5
 
 import sys
 
