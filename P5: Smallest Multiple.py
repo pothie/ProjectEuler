@@ -1,4 +1,10 @@
-Input n: We are looking for the smallest positive number that is evenly divisible by all integers in [1,n] 
+'''
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+'''
+
+# Input n: We are looking for the smallest positive number that is evenly divisible by all integers in [1,n] 
 
 t = int(input().strip())
 for a0 in range(t):
