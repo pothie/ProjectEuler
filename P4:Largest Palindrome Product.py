@@ -22,3 +22,4 @@ for a0 in range(t):
     
 # Faster than looping through every palindrome number and check if it is a product of two 3-digit number.
 # Because that involves float division, which slows down the process.
+
