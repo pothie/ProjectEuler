@@ -1,5 +1,5 @@
 
-# Input t: the upper bound of the Fibonacci sequence  
+# Input n: the upper bound of the Fibonacci sequence  
 import sys
 
 t = int(input().strip())
