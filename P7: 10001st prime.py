@@ -24,4 +24,4 @@ for a0 in range(t):
             prime.append(i)
     print(prime[n-1])
     
-# Everything involving primes can be improved by solution of Q?.
+# Everything involving primes can be improved by solution of Q10.
